@@ -1,0 +1,25 @@
+{
+  "name": "ups-picohv3",
+  "version": "1.0.0",
+  "description": "Module for interacting with a UPS Pico HV3.0A from http://pimodules.com/",
+  "main": "index.js",
+  "directories": {
+    "doc": "doc"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niabb/ups-picohv3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niabb/ups-picohv3/issues"
+  },
+  "homepage": "https://github.com/niabb/ups-picohv3#readme",
+  "dependencies": {
+    "i2c-bus": "^1.2.1"
+  }
+}
